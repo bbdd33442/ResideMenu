@@ -20,9 +20,7 @@ import com.nineoldandroids.view.ViewHelper;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- 	这个类中修改了两个地方，第一个把fragment改成activity，第二是把setscale的方向默认为左侧。
- */
+
 public class ResideMenu extends FrameLayout{
 
     public  static final int DIRECTION_LEFT  = 0;
